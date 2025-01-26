@@ -100,3 +100,4 @@ class _NinjaCardState extends State<NinjaCard> {
         ));
   }
 }
+//great
